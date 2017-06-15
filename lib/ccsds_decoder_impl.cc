@@ -28,6 +28,8 @@
 #include "ccsds.h"
 #include "reed_solomon.h"
 
+#include <stdio.h>
+
 #define STATE_SYNC_SEARCH 0
 #define STATE_CODEWORD 1
 

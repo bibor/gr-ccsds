@@ -28,6 +28,8 @@
 #include "ccsds.h"
 #include "reed_solomon.h"
 
+#include <stdio.h>
+
 namespace gr {
   namespace ccsds {
 
